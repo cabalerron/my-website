@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Erron Monteverde </span>
             from <span className="purple"> Montalban Rizal </span>
             <br />
-            I am currently employed as a software design engineer II at Tsukiden Global Solution Inc.
+            I am currently employed as a Custom Software Engineering Sr Analyst at Accenture Inc.
             <br />
             <br />
             I completed my Bachelor's degree in Information Technology at Colegio de Montalban from 2015 to 2019.
