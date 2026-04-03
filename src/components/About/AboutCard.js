@@ -9,20 +9,45 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Erron Monteverde </span>
-            from <span className="purple"> Montalban Rizal </span>
+            from <span className="purple">  Montalban, Rizal</span>
+            <br />I have experience in <strong>software development</strong> and
+            a strong passion for coding and creating meaningful applications.
             <br />
-            I am currently employed as a Custom Software Engineering Sr Analyst at Accenture Inc.
+            <br />I have worked on various projects across different domains,
+            using tools and technologies such as
+            <span className="purple">
+              {" "}
+              Java Spring Boot, React, TypeScript, Redux, PostgreSQL, MySQL, SQL
+              Server, Postman, Git, CI/CD, RESTful API integration, unit
+              testing, integration testing
+            </span>
+            , and more. I have applied these skills in all aspects of the
+            projects I handle.
             <br />
             <br />
-            I completed my Bachelor's degree in Information Technology at Colegio de Montalban from 2015 to 2019.
+            I’m looking to connect with people who are interested in my{" "}
+            <strong>skill set</strong> and open to{" "}
+            <strong>collaborations on projects</strong>. I have handled numerous
+            projects; however, most of them are confidential. You can view some
+            of my work on my GitHub profile:
+            <a
+              href="https://github.com/cabalerron"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="purple"
+            >
+              https://github.com/cabalerron
+            </a>
             <br />
             <br />
-            I am aspiring to become a freelance software developer and am seeking clients interested in my skill set. 
+            Apart from coding, some other activities that I love to do:
             <br />
-            I have handled numerous projects, but they are too confidential to post on my personal website.
+            - Playing games
             <br />
+            - Riding motorcycles
             <br />
-            Apart from coding, some other activities that I love to do!
+            - Traveling
+            <br />- Social gatherings and parties
           </p>
           <ul>
             <li className="about-activity">
